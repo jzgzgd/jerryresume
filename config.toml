@@ -4,8 +4,13 @@ Page settings
 baseURL = "https://jzgzgd.github.io/jerryresume"
 publishDir = "docs"
 languageCode = "en"
+<<<<<<< HEAD
 title = "jiangyulei"
 themes = "hugo-devresume-theme"
+=======
+title = "jiangyulei de bo ke"
+theme = "hugo-devresume-theme"
+>>>>>>> fc8ae5b4353f75ebfe19550bc97fe71c593467e8
 googleAnalytics = "UA-XXXXXXX-Y"
 
 

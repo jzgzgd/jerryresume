@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://jzgzgd.github.io/jerryresume"
+baseURL = "https://jzgzgd.github.io/jerryresume"
 publishDir = "docs"
 languageCode = "en"
 title = "jiangyulei de bo ke"

@@ -3,8 +3,8 @@
 baseURL = "http://jzgzgd.github.io/jerryresume"
 publishDir = "docs"
 languageCode = "en"
-title = ""
-themes = "hugo-devresume-theme"
+title = "jiangyulei de bo ke"
+theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 

@@ -4,7 +4,7 @@ baseURL = "http://jzgzgd.github.io/jerryresume"
 publishDir = "docs"
 languageCode = "en"
 title = ""
-theme = "hugo-devresume-theme"
+themes = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
 

@@ -1,9 +1,10 @@
-# Page settings
+#
+Page settings
 
-baseURL = "http://jzgzgd.github.io/jerryresume"
+baseURL = "https://jzgzgd.github.io/jerryresume"
 publishDir = "docs"
 languageCode = "en"
-title = ""
+title = "jiangyulei"
 themes = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 

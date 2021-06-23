@@ -1,6 +1,7 @@
 # Page settings
 
 baseURL = "http://example.org/"
+publishDir = "docs"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"

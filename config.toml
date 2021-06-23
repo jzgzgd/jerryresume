@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://example.org/"
+baseURL = "http://jzgzgd.github.io/jerryresume"
 publishDir = "docs"
 languageCode = "en"
 title = ""
